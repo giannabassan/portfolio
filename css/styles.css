@@ -152,7 +152,7 @@ a:hover {
       bottom: 400px;
       left: 50px;
     }
-}
+
 .intro{
   width: 90%;
 }
@@ -166,6 +166,7 @@ a:hover {
   width: 30%;
   margin: auto;
   font-size: 1.5 rem;
+}
 }
 /* -----------------BUTTON CSS ---------------------- */
 
